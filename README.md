@@ -1,4 +1,4 @@
-# Asymatrica and Circular Social Dilemma with Reinforcement Learning and Graph-based Tit-for-Tat
+# Asymmetric and Circular Sequential Social Dilemmas with Reinforcement Learning and Graph-based Tit-for-Tat
 
 ## Requirements
 - Python: requirements.txt
