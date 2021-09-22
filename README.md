@@ -11,8 +11,8 @@ To create a virtual environment:
 
 * Download files on your machine and go to the main directory
   ```
-  git clone https://github.com/submission-conf/neurips2021.git
-  cd neurips2021
+  git clone https://github.com/submission-conf/neurips_cooperativeAI.git
+  cd neurips_cooperativeAI
   ```
 
 * Create a virtual environment and activate it
