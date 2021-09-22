@@ -1,4 +1,4 @@
-# Circular Social Dilemma with Reinforcement Learning
+# Asymatrica and Circular Social Dilemma with Reinforcement Learning and Graph-based Tit-for-Tat
 
 ## Requirements
 - Python: requirements.txt
